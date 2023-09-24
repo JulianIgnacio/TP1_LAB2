@@ -1,0 +1,12 @@
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.Form2.resources
+C:\Users\monte\Documents\Tecnicatura\Laboratorio 2\TpNº1\Ejercicio3\obj\Debug\Ejercicio3.Form3.resources
